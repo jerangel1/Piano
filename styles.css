@@ -54,7 +54,7 @@ html {
       width: 318px;
     }
   
-    
+
   }
   
   @media (max-width: 1199px) and (min-width: 769px) {
@@ -70,4 +70,5 @@ html {
     margin: auto;
     font-weight: bold;
     font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
   }
